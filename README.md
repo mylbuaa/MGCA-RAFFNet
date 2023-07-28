@@ -16,7 +16,7 @@ Further details regarding the data acquisition and preprocessing procedures can 
 You can download the ADNI dataset via [ADNI](http://adni.loni.usc.edu/).
 
 ## 2.2 Requirements
-* PyTorch 2.0.1 
+* PyTorch 2.0.1 +cuda 11.8
   
 ## 2.3 Run 
 You can run "main.ipynb". 
