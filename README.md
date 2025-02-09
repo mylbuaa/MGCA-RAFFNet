@@ -1,5 +1,5 @@
 # MGCA-RAFFNet
-Code for the paper 'A Multi-Graph Cross-Attention based Region-Aware Feature Fusion Network using Multi-Template for Brain Disorder Diagnosis' is coming soon. Further details will be disclosed after the paper is accepted.  
+Code for the paper 'A Multi-Graph Cross-Attention based Region-Aware Feature Fusion Network using Multi-Template for Brain Disorder Diagnosis'.  
 
 # 1 Introduction
 
